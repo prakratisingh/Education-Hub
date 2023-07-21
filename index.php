@@ -13,7 +13,7 @@
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="articles/article1.php">Installation</a></li>
-            <li><a href="articles/article2.php">Article 2</a></li>
+            <li><a href="articles/article2.php">Basic Syntax</a></li>
             <!-- Add more article links here -->
         </ul>
     </nav>
@@ -21,7 +21,7 @@
         <h2>Featured Articles</h2>
         <!-- Display some featured articles or content here -->
         <li><a href="articles/article1.php">Installation</a></li>
-        <li><a href="articles/article2.php">Article 2</a></li>
+        <li><a href="articles/article2.php">Basic Syntax</a></li>
     </main>
     <footer>
         <p>&copy; <?php echo date('Y'); ?> Education Hub. All rights reserved.</p>

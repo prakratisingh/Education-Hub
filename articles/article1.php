@@ -15,7 +15,7 @@
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="article1.php">Installation</a></li>
-            <li><a href="article2.php">Article 2</a></li>
+            <li><a href="article2.php">Basic Syntax</a></li>
             <!-- Add more article links here -->
         </ul>
     </nav>
