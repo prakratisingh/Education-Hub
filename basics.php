@@ -9,7 +9,12 @@ echo $var2;
 //to put new line in the page
 echo "<br>";
 echo $var1+$var2;
-
+echo "<br>";
+echo $var1-$var2;
+echo "<br>";
+echo $var1*$var2;
+echo "<br>";
+echo $var1/$var2;
 
 //Operators in PHP
 /*
